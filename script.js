@@ -7,31 +7,31 @@ const workoutSections = [
         name: 'Upward Dog',
         description:
           'Estiramiento de yoga donde te acuestas boca abajo, colocas las manos cerca del pecho y estiras los brazos levantando el torso, abriendo el pecho y llevando los hombros hacia atrás, mientras las caderas se mantienen cerca del suelo.',
-        video: './assets/mp4/upward_dog.mp4',
+        video: './upward_dog.mp4',
       },
       {
         name: 'Forward Fold',
         description:
           'De pie, se flexiona el torso hacia adelante dejando caer la cabeza y los brazos hacia el suelo, buscando tocar los pies o el suelo. Ayuda a estirar isquiotibiales, espalda baja y relajar la tensión en el cuello.',
-        video: './assets/mp4/forward_fold.mp4',
+        video: './forward_fold.mp4',
       },
       {
         name: 'Cobra Pose',
         description:
           'Similar al <em>Upward Dog</em>, pero con los codos semiflexionados y las caderas apoyadas en el suelo. Se utiliza para abrir el pecho, estirar abdominales y aliviar la columna lumbar.',
-        video: './assets/mp4/cobra_pose.mp4',
+        video: './cobra_pose.mp4',
       },
       {
         name: 'Triangle Pose',
         description:
           'De pie con las piernas abiertas, se estira un brazo hacia el suelo y el otro hacia arriba, manteniendo el torso alineado en un ángulo lateral. Trabaja la estabilidad, la flexibilidad de la cadera y la fuerza en el tronco.',
-        video: './assets/mp4/triangle_pose.mp4',
+        video: './triangle_pose.mp4',
       },
       {
         name: 'Dancer Pose',
         description:
           'Postura de equilibrio en la que, de pie, se toma un pie por detrás con una mano y se eleva la pierna hacia arriba y atrás, mientras el otro brazo se extiende hacia adelante. Mejora el equilibrio, la concentración y fortalece las piernas y glúteos.',
-        video: './assets/mp4/dancer_pose.mp4',
+        video: './dancer_pose.mp4',
       },
     ],
   },
@@ -43,37 +43,37 @@ const workoutSections = [
         name: 'Romanian Deadlift',
         description:
           'Ejercicio de fuerza para glúteos e isquiotibiales. De pie con barra o mancuernas, se baja el torso hacia adelante empujando las caderas atrás con la espalda recta, y se sube contrayendo glúteos.',
-        video: './assets/mp4/romanian_deadlift.mp4',
+        video: './romanian_deadlift.mp4',
       },
       {
         name: 'Glute Raise',
         description:
           'También llamado <em>hip thrust</em>, consiste en apoyar la espalda en un banco con los pies en el suelo, bajar la cadera y luego subirla hasta que el torso quede alineado con las piernas, apretando los glúteos arriba.',
-        video: './assets/mp4/glute_raise.mp4',
+        video: './glute_raise.mp4',
       },
       {
         name: 'Calf Raise',
         description:
           'Elevación de talones en la que te pones de pie, subes lentamente hasta quedar sobre la punta de los pies, sostienes unos segundos y bajas controlado, fortaleciendo las pantorrillas.',
-        video: './assets/mp4/calf_raise.mp4',
+        video: './calf_raise.mp4',
       },
       {
         name: 'Treadmill',
         description:
           'Ejercicio cardiovascular en cinta de correr donde puedes caminar, trotar o correr ajustando la velocidad y la inclinación. Mejora la resistencia física y ayuda a quemar calorías.',
-        video: './assets/mp4/treadmill.mp4',
+        video: './treadmill.mp4',
       },
       {
         name: 'Goblet Squats',
         description:
           'Sentadilla sosteniendo una pesa frente al pecho. Se baja flexionando rodillas y caderas hasta que los muslos estén paralelos al suelo, y se sube empujando con los talones. Trabaja piernas, glúteos y core.',
-        video: './assets/mp4/goblet_squat.mp4',
+        video: './goblet_squat.mp4',
       },
       {
         name: 'Jefferson Curl',
         description:
           'Movimiento de movilidad y estiramiento en el que, con un peso ligero, se baja enrollando la columna vértebra por vértebra hacia el suelo y luego se sube desenrollándola, mejorando flexibilidad en espalda e isquiotibiales.',
-        video: './assets/mp4/jefferson_curl.mp4',
+        video: './jefferson_curl.mp4',
       },
     ],
   },
